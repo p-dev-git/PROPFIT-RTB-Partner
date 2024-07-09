@@ -435,10 +435,10 @@ Accept-Encoding: gzip
                     "id": "b680210a-17b4-4650-8bd9-f99c89c74e3a",
                     "impid": "1eb3fd3b-b52e-4f33-8474-3762efdcb64d",
                     "price": 0.0827501724672,
-                    "nurl": "https://bidder.ptbwa.com/ptbwa/v1/rtb.nurl?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&is_cpvc=0&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0",
-                    "iurl": "https://creative.ptbwa.com/creatives/image/2024/03/19/14/20240319140509002.jpg",
-                    "lurl": "https://bidder.ptbwa.com/ptbwa/v1/rtb.lurl?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&is_cpvc=0&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0",
-                    "adm": "<div style=\"width:320px; height:480px; z-index:999; overflow:hidden; margin-left:auto; margin-right:auto;\" onclick=\"new Image().src='https://bidder.ptbwa.com/ptbwa/v1/rtb.click?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&is_cpvc=0&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0';\"><meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no' /><style type='text/css'>body {margin: 0;padding: 0;}</style><a href=\"https://migunlife.co.kr/%EB%AF%B8%EA%B1%B4%EC%B2%B4%ED%97%98%EC%84%BC%ED%84%B0-%EB%AA%A8%EC%A7%91\" target=\"_blank\"><img width=\"320\" height=\"480\" src=\"https://creative.ptbwa.com/creatives/image/2024/03/19/14/20240319140509002.jpg\" /></a></div><img src=\"https://bidder.ptbwa.com/ptbwa/v1/rtb.imp?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&auction_price=${AUCTION_PRICE}&is_cpvc=1&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0\" style=\"width:0px; height:0px; border:0px;\">",
+                    "nurl": "https://bid.exemple.com/ptbwa/v1/rtb.nurl?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&is_cpvc=0&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0",
+                    "iurl": "https://creative.exemple.com/creatives/image/2024/03/19/14/20240319140509002.jpg",
+                    "lurl": "https://bid.exemple.com/ptbwa/v1/rtb.lurl?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&is_cpvc=0&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0",
+                    "adm": "<div style=\"width:320px; height:480px; z-index:999; overflow:hidden; margin-left:auto; margin-right:auto;\" onclick=\"new Image().src='https://bid.exemple.com/ptbwa/v1/rtb.click?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&is_cpvc=0&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0';\"><meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no' /><style type='text/css'>body {margin: 0;padding: 0;}</style><a href=\"https://migunlife.co.kr/%EB%AF%B8%EA%B1%B4%EC%B2%B4%ED%97%98%EC%84%BC%ED%84%B0-%EB%AA%A8%EC%A7%91\" target=\"_blank\"><img width=\"320\" height=\"480\" src=\"https://creative.exemple.com/creatives/image/2024/03/19/14/20240319140509002.jpg\" /></a></div><img src=\"https://bid.exemple.com/ptbwa/v1/rtb.imp?tid=ptbwa_593c7ed4-1650-4304-aeed-02560b41e84c&auction_price=${AUCTION_PRICE}&is_cpvc=1&imp_id=1eb3fd3b-b52e-4f33-8474-3762efdcb64d&imp_idx=0\" style=\"width:0px; height:0px; border:0px;\">",
                     "adomain": ["www.advertiserdomain.com"],
                     "bundle": "",
                     "cat": ["IAB01"],
@@ -498,7 +498,7 @@ Accept-Encoding: gzip
           "impid": "1",
           "price": 3.0831,
           "nurl": "",
-          "iurl": "https://creative.ptbwa.com/creatives/video/2023/12/13/15/20231213153604001.mp4",
+          "iurl": "https://creative.exemple.com/creatives/video/2023/12/13/15/20231213153604001.mp4",
           "lurl": "",
           "adm": "<VAST version=\"3.0\"><Ad id=\"73\">........</InLine></Ad></VAST>",
           "adomain": ["adomain"],
@@ -534,10 +534,10 @@ Accept-Encoding: gzip
                 <![CDATA[Campaign Description]]>
             </Description>
             <Error>
-                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.error?tag=KLT8FS4IEW2X&req_id=uuid&code=${CODE}]]>
+                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.error?tag=KLT8FS4IEW2X&req_id=uuid&code=${CODE}]]>
             </Error>
             <Impression id="0">
-                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.imp?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.imp?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
             </Impression>
             <Creatives>
                 <Creative id="125" sequence="1">
@@ -547,32 +547,32 @@ Accept-Encoding: gzip
                         </Duration>
                         <TrackingEvents>
                             <Tracking event="start">
-                                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.vast/tracking/start?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.vast/tracking/start?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
                             </Tracking>
                             <Tracking event="firstQuartile">
-                                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.vast/tracking/firstQ?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.vast/tracking/firstQ?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
                             </Tracking>
                             <Tracking event="midpoint">
-                                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.vast/tracking/mid?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.vast/tracking/mid?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=${AUCTION_PRICE}&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
                             </Tracking>
                            <Tracking event="thirdQuartile">
-                                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.vast/tracking/thirdQ?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.vast/tracking/thirdQ?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
                             </Tracking>
                             <Tracking event="complete">
-                                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.vast/tracking/complete?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.vast/tracking/complete?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
                             </Tracking>
                             <Tracking event="progress" offset="00:00:10">
-                                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.vast/tracking/progress?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.vast/tracking/progress?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
                             </Tracking>
                         </TrackingEvents>
                         <VideoClicks>
                             <ClickTracking id="blog">
-                                <![CDATA[https://bidder.ptbwa.com/ptbwa/v1/rtb.click?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
+                                <![CDATA[https://bid.exemple.com/ptbwa/v1/rtb.click?tag=KLT8FS4IEW2X&req_id=uuid&res_id=ptbwa_cc6c5bb3-58c1-486e-a735-882e28168676&tag_id=vod&cmp=146&ag=265&creative=125&auction_price=0.5&ad_type=3&app_id=&app_name=gima&bundle=google.ima&ifa=53bc7daf-4e0f-4274-a799-022a6e46dfa6]]>
                             </ClickTracking>
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile id="125" delivery="progressive" type="video/mp4" bitrate="28351" width="1920" height="1080">
-                                <![CDATA[https://creative.ptbwa.com/creatives/video/2024/05/16/15/20240516153526001.mp4]]>
+                                <![CDATA[https://creative.exemple.com/creatives/video/2024/05/16/15/20240516153526001.mp4]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
