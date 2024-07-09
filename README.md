@@ -1,2 +1,2 @@
 # PROPFIT-RTB-Integration-Guide
-PROPFIT RTB 연동가이드
+PROPFIT RTB For SSP 연동가이드
