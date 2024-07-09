@@ -171,7 +171,7 @@ Accept-Encoding: gzip
 |-----------|---------------|--------------|-----------------------------------|
 | id        | string        | O (web 일 경우) | Exchange의 Site ID                 |
 | name      | string        |              | Exchange의 Site Name               |
-| domain    | string        |              | 매체 Domain. (예: ‘www.vividad.net’) |
+| domain    | string        |              | 매체 Domain. (예: ‘www.performancebytbwa.net’) |
 | cat       | array(string) |              | 사이트에 대한 IAB 컨텐츠 카테고리 리스트          |
 | page      | string        |              | 현재 페이지의 URL                       |
 
