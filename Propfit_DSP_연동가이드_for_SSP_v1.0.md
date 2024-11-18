@@ -38,7 +38,7 @@
 
 # 1. PROPFIT RTB Partner?
 ## 1.1. 소개
-> PROPFIT RTB Partner 는 광고 구매사와 퍼블리셔 인벤토리 판매자 간 실시간 자동 입찰을 진행하는 광고 경매 시스템 입니다. OpenRTB Specification version 2.5와 Video Ad Serving Template (VAST) 3.0 을 기반으로 설계되었으며, 모든 스펙 지원이 아닌 제한된 범위의 Object만이 구현되어 있습니다.
+> PROPFIT RTB Partner 는 광고 구매사와 퍼블리셔 인벤토리 판매자 간 실시간 자동 입찰을 진행하는 광고 경매 시스템 입니다. OpenRTB Specification version 2.3 ~ 2.6와 Video Ad Serving Template (VAST) 3.0 을 기반으로 설계되었으며, 모든 스펙 지원이 아닌 제한된 범위의 Object만이 구현되어 있습니다.
 
 ## 1.2. 연동 절차
 PROPFIT RTB Partner 연동 절차는 다음과 같습니다.
