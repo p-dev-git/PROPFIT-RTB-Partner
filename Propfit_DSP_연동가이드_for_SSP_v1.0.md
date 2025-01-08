@@ -368,6 +368,10 @@ Accept-Encoding: gzip
   "device": {
     "ua": "SupplySide-SSP/2.0",
     "geo": {
+      "lat": 37.56,
+      "lon": 126.91,
+      "region": "KR-11",
+      "city": "Seoul",
       "country": "KOR",
       "zip": "23145"
     },
